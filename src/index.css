@@ -11,3 +11,81 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+header{
+  box-shadow: 0px 1px 4px #15223214 !important;
+}
+
+.css-96uuyl{
+  margin-left: 0px !important;
+  width: 50% !important;
+  box-shadow: 0px 1px 3px #0E1B4126;
+  border: 0.6000000238418579px solid #8A92A633;
+  border-radius: 6px;  
+}
+.css-78trlr-MuiButtonBase-root-MuiIconButton-root{
+  color:#cae9e2 !important;
+}
+.css-9mgopn-MuiDivider-root{
+  border-color: rgba(231, 224, 224, 0.12) !important;
+}
+.header1{
+  background-color: #ffffff !important;
+  color: rgb(117, 117, 117) !important;
+}
+
+.title1{
+  margin: 0;
+}
+
+.search1{
+  width: 100;
+  box-shadow: 0px 2px 0px -1px rgb(0 0 0 / 6%), 0px 0px 5px 0px rgb(0 0 0 / 14%), 0px 1px 8px 0px rgb(0 0 0 / 12%);
+
+}
+
+.css-9tj150-MuiButton-endIcon{
+  margin: 0 !important;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+  background-color: #03241D !important;
+  color: #d4ebe5 !important;
+}
+.css-cveggr-MuiListItemIcon-root{
+  color: #cae9e2 !important;
+  
+}
+
+.css-cnd76u-MuiPaper-root{
+  text-align: start !important;
+}
+
+.Component-root-1{
+  height: 242px !important;
+}
+
+
+.linechart1{
+  height: 300px !important;
+  padding-right: 30px !important;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+  padding: 7px !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+    font-size: 14px !important;
+    top: -6px !important;
+}
+
+
+
+@media (max-width:600px){
+  .css-96uuyl{
+    
+    width: 100% !important;
+  }
+
+}
+
