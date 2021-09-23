@@ -40,7 +40,7 @@ export default function SimplePaper() {
        
         <Box sx={{ pt:0}}>
         <Typography variant="subtitle2">
-        Total Charges
+        Total Charges2
       </Typography>
         </Box>
       </Box>
